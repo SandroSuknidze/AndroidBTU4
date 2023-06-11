@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044221622822",
+    "firebase_url": "https://btu4-1847e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "btu4-1847e",
+    "storage_bucket": "btu4-1847e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044221622822:android:d6dc2bbcba065b9e5e04e7",
+        "android_client_info": {
+          "package_name": "com.example.btu4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044221622822-n4234o78fhqu0lbcpon9hg6d2kl07arl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCREuH_TDDxltRPNP_7SyfmveHrlVB94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044221622822-n4234o78fhqu0lbcpon9hg6d2kl07arl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
